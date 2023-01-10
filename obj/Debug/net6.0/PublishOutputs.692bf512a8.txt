@@ -1,0 +1,5 @@
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/bin/Debug/net6.0/publish/Tictactoe
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/bin/Debug/net6.0/publish/Tictactoe.dll
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/bin/Debug/net6.0/publish/Tictactoe.deps.json
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/bin/Debug/net6.0/publish/Tictactoe.runtimeconfig.json
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/bin/Debug/net6.0/publish/Tictactoe.pdb

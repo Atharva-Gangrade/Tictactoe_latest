@@ -1,0 +1,15 @@
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/bin/Debug/net6.0/Tictactoe
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/bin/Debug/net6.0/Tictactoe.deps.json
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/bin/Debug/net6.0/Tictactoe.runtimeconfig.json
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/bin/Debug/net6.0/Tictactoe.dll
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/bin/Debug/net6.0/Tictactoe.pdb
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/obj/Debug/net6.0/Tictactoe.csproj.AssemblyReference.cache
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/obj/Debug/net6.0/Tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/obj/Debug/net6.0/Tictactoe.AssemblyInfoInputs.cache
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/obj/Debug/net6.0/Tictactoe.AssemblyInfo.cs
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/obj/Debug/net6.0/Tictactoe.csproj.CoreCompileInputs.cache
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/obj/Debug/net6.0/Tictactoe.dll
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/obj/Debug/net6.0/refint/Tictactoe.dll
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/obj/Debug/net6.0/Tictactoe.pdb
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/obj/Debug/net6.0/Tictactoe.genruntimeconfig.cache
+/home/forty-seven-billion/Atharva Gangrade 47Billion/Tictactoe-master/Tictactoe-master/obj/Debug/net6.0/ref/Tictactoe.dll
